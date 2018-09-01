@@ -6,6 +6,8 @@ developで編集
 
 ## 空コミットの仕方
 
+オプション `--allow-empty` をつける
+
 ```
 git commit --allow-empty -m "first commit"
 ```
