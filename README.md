@@ -6,6 +6,8 @@ developで編集
 
 ## 空コミットの仕方
 
+Pull requestをする時にはコミットが必要。
+
 ```
 git commit --allow-empty -m "first commit"
 ```
